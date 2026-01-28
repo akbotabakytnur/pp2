@@ -1,0 +1,6 @@
+a=int('45')
+b=str(3.3)
+c=float(5)
+print(a)
+print(b)
+print(c)
